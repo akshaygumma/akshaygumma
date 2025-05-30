@@ -46,8 +46,8 @@ A 24-year-old builder, gamer, game developer and passionate about shipping fast,
 ## 📫 Let’s Connect
 
 - **GitHub:** [@AkshayGumma](https://github.com/AkshayGumma)
-- **Email:** akshay.gumma@gmail.com
-- **Discord:** [@akshayg](https://discordapp.com/users/807565624020697128)
+- **Email:** gummaakshay@gmail.com
+- **Discord:** [@akshay-gumma](https://discordapp.com/users/807565624020697128)
 
 ---
 
