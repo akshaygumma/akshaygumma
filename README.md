@@ -30,7 +30,7 @@ A 24-year-old builder, gamer, game developer and passionate about shipping fast,
 **Languages:** JavaScript, Python, C#  
 **Frameworks:** Node.js, Express, React, Unity
 **Databases:** MongoDB, PostgreSQL  
-**Infra & DevOps:** AWS, GitHub Actions  
+**Infra & DevOps:** AWS, GitHub Actions, DVC 
 **AI/ML:** OpenAI, Google AI, LangChain, MLflow  
 **Game Dev:** Unity, ScriptableObject patterns, Physics-based AI
 
